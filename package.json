@@ -1,0 +1,28 @@
+{
+  "name": "austin_portfolio",
+  "description": "My portolfio Page",
+  "version": "1.0.0",
+  "homepage": "https://cryptopotluck.github.io/portfolio",
+  "author": "Austin Kiesewetter",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-open": "^3.0.1"
+  },
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d AustinPortfolio"
+  },
+  "keywords": [],
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
