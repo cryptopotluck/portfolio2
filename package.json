@@ -20,7 +20,7 @@
     "deploy": "gh-pages -d examples"
   },
   "keywords": [],
-  "homepage": "https://cryptopotluck.github.io/portfolio2",
+  "homepage": "https://cryptopotluck.github.io/portfolio2/examples",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
