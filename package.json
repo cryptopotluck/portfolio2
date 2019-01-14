@@ -15,7 +15,7 @@
   "directories": {
     "doc": "docs",
     "example": "examples",
-    "assets": "assets"
+    "examples/assets": "examples/assets"
   },
   "scripts": {
     "deploy": "gh-pages -d examples"
