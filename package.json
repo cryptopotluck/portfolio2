@@ -14,7 +14,8 @@
   "main": "gulpfile.js",
   "directories": {
     "doc": "docs",
-    "example": "examples"
+    "example": "examples",
+    "assets": "assets"
   },
   "scripts": {
     "deploy": "gh-pages -d examples"
