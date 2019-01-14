@@ -1,7 +1,6 @@
 {
   "name": "portfolio2",
   "description": "My portolfio Page",
-  "version": "1.0.0",
   "author": "Austin Kiesewetter",
   "devDependencies": {
     "gulp": "^3.9.1",
